@@ -35,6 +35,7 @@ print [n for n in nums]
 #   for num in range(4):
 #     my_list.append((letter,num))
 # print my_list
+# print([(letter,num) for letter in 'abcd' for num in range(4)]]
 
 # Dictionary Comprehensions
 names = ['Bruce', 'Clark', 'Peter', 'Logan', 'Wade']
